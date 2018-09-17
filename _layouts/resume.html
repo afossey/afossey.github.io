@@ -61,6 +61,13 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
+          <div class="resume-item-keywords">
+            {% for keyword in job.keywords %}
+            <span class="resume-item-keyword">
+              {{ keyword }}
+            </span>
+            {% endfor %}
+          </div>
         </div><!-- end of resume-item -->
         {% endfor %}
 
