@@ -3,44 +3,22 @@
 - company: equensWorldline
   position: Lead Developer
   duration: Aug, 2017 &mdash; Present
-  summary: Currently working for the ACS (Access Control Server) Product team.<br> 
-  ACS aims at securing internet payments. It implements the 3D-Secure protocol and support multiple ways of authenticating cardholders, for hundreds of banks and millions of users. 
-  My work environment consists of Java EE / AngularJS, Maven / npm / Grunt, Netflix OSS, MySQL / MongoDB / Hazelcast / ELK, Gitlab CI, Docker, Scrum, PCI 3DS ..
+  summary: Currently working for the ACS (Access Control Server) Product team.<br> ACS aims at securing internet payments. It implements the 3D-Secure protocol and support multiple ways of authenticating cardholders, for hundreds of banks and millions of users. I lead developments in a young team of eight developers including myself. Our work environment consists of Java EE / AngularJS, Maven / npm, Netflix OSS, MySQL / MongoDB / Hazelcast / ELK, Gitlab CI, Docker, Jira, PCI 3DS ..
 
 # Software Engineer at Worldline
 - company: Worldline
   position: Software Engineer
   duration:  Feb, 2016 &mdash; Aug, 2017
-  summary: Design and full stack development of digital wallet solutions.<br> 
-  We built a whiteapp whose goal was to bootstrap and simplify back-offices development in our department. 
-  Also I had the chance to completely rewrite a frontend for (<a href="https://www.paylib.fr/">Paylib</a>) using Angular (v4 at the time ).
-  Other than that, my work environment revolved around Java EE / AngularJS, Maven / npm / Grunt, MySQL / MongoDB / ELK, Docker, Jenkins, Scrum ..
+  summary: Design and full stack development of digital wallet solutions.<br> We built a whiteapp that enables bootstraping back-offices development in our business division. I also completely rewrite a frontend for <a href="https://www.paylib.fr/">Paylib</a> using Angular (v4 at the time). <br> My technology stack revolved around Java EE / Angular, Maven / npm / Grunt, MySQL / MongoDB / ELK, Docker, Jenkins, Jira ..
 
 # Co Founder at Tree Social
 - company: Tree Social
   position: Co Founder
-  duration:   Feb, 2015  &mdash; April, 2017
-  summary: Tree is a social network for content sharing and curation.<br>
-  <ul class="resume-item-list">
-  <li>Connect with people on specific topics</li>
-  <li>Discover quality content without any ads</li>
-  <li>Share and save your new findings</li><
-  /ul>
-  The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> like, with social and collaborative features.
-  Tree had a premium offering where members could team up and share their bookmarks and ideas. Tree also featured a chrome and a firefox extension.
-  We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. 
-  To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. 
-  The web app was deployed on AWS Beanstalk, using S3, Cloudfront and RDS.
-  Tree has been terminated due to growing maintenance and operating costs.
+  duration:   Feb, 2015  &mdash; June, 2017
+  summary: <a href="https://www.tree.social/#/social">Tree</a> was a social-bookmarking service for content sharing and curation.<br><ul class="resume-item-list"><li>Connect with people on specific topics</li><li>Discover quality content without any ads</li><li>Share and save your new findings</li></ul>The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> with social and collaborative features. <br> Tree had a premium offering where members could team up and share their bookmarks and ideas. It also featured a chrome and a firefox extension. <br> We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. The application was deployed on AWS Beanstalk, using S3, Cloudfront and RDS. <br> Tree has been terminated due to growing maintenance and operating costs.
 
   # Intern Engineer
 - company: Worldline
   position: Intern Engineer
   duration:   Aug, 2013  &mdash; Jan, 2014
-  summary: Load testing of a call center solution made of multiple java services<br>
-  <ul class="resume-item-list">
-  <li><a href="https://www.neotys.com/neoload/overview">NeoLoad</a> and Groovy scripting</li>
-  <li>JVM monitoring</li>
-  <li>Servers administration</li><
-  /ul>
-  I collaborated with the development team and the business team in order to create tests scenarios that validate product specifications and client cases.
+  summary: Load testing of a call center solution made of multiple java services<br><ul class="resume-item-list"><li><a href="https://www.neotys.com/neoload/overview">NeoLoad</a> and Groovy scripting</li><li>JVM monitoring</li><li>Servers administration</li></ul>I collaborated with the development team and the business team in order to create tests scenarios that validate product specifications and client cases.
