@@ -1,6 +1,8 @@
 # Jobs
 # Lead Developer at equensWorldline
-- company: equensWorldline
+- #company: equensWorldline
+  logo: equensWorldline.png
+  link: https://equensworldline.com/
   position: Lead Developer
   duration: Aug, 2017 &mdash; Present
   summary: Currently working for the ACS (Access Control Server) Product team.<br> ACS aims at securing internet payments. It implements the 3D-Secure protocol and support multiple ways of authenticating cardholders, for hundreds of banks and millions of users. I lead developments in a young team of eight developers including myself.<p></p>
@@ -18,12 +20,15 @@
     - Jira
     - Docker-compose
     - PCI 3DS
+    - Cryptography
 
 # Software Engineer at Worldline
-- company: Worldline
+- #company: Worldline
+  logo: worldline.png
+  link: https://worldline.com/
   position: Software Engineer
   duration:  Feb, 2016 &mdash; Aug, 2017
-  summary: Design and full stack development of digital wallet solutions.<br> We built a whiteapp that enables bootstraping back-offices development in our business division. I also completely rewrite a frontend for <a href="https://www.paylib.fr/">Paylib</a> using Angular (v4 at the time). <p></p>
+  summary: Design and full stack development of digital wallet solutions.<br> We built a whiteapp that enables bootstraping of back-offices development in our business division. I also completely rewrite a frontend for <a href="https://www.paylib.fr/">Paylib</a> using Angular (v4 at the time). <p></p>
   keywords:
     - Java EE
     - AngularJS
@@ -38,10 +43,12 @@
     - Scrum
 
 # Co Founder at Tree Social
-- company: Tree Social
+- #company: Tree Social
+  logo: tree.svg
+  link: https://www.tree.social/#/social
   position: Co Founder
   duration:   Feb, 2015  &mdash; June, 2017
-  summary: <a href="https://www.tree.social/#/social">Tree</a> was a social-bookmarking service for content sharing and curation.<br><ul class="resume-item-list"><li>Connect with people on specific topics</li><li>Discover quality content without any ads</li><li>Share and save your new findings</li></ul>The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> with social and collaborative features. <br> Tree had a premium offering where members could team up and share their bookmarks and ideas. It also featured a chrome and a firefox extension. <br> We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. The application was deployed on AWS Beanstalk, using S3, Cloudfront and RDS. <br> Tree has been terminated due to growing maintenance and operating costs.
+  summary: <a href="https://www.tree.social/#/social">Tree</a> was a social-bookmarking service for content sharing and curation.<br><ul class="resume-item-list"><li>Connect with people on specific topics</li><li>Discover quality content without any ads</li><li>Share and save your new findings</li></ul>The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> with social and collaborative features. <br> Tree had a premium offering where members could team up and share their bookmarks and ideas. It also featured a chrome and a firefox extension. <br> We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. The application was deployed on AWS Beanstalk, using S3, Cloudfront and RDS. <br> Tree has been discontinued due to growing maintenance and operating costs.
   keywords:
     - Sass
     - AngularJS
@@ -50,7 +57,9 @@
     - PostgreSQL
 
 # Intern Engineer
-- company: Worldline
+- #company: Worldline
+  logo: worldline.png
+  link: https://worldline.com/
   position: Intern Engineer
   duration:   Aug, 2013  &mdash; Jan, 2014
   summary: Load testing of a call center solution made of multiple java services<br><ul class="resume-item-list"><li><a href="https://www.neotys.com/neoload/overview">NeoLoad</a> and Groovy scripting</li><li>JVM monitoring</li><li>Servers administration</li></ul>I collaborated with the development team and the business team in order to create tests scenarios that validate product specifications and client cases.

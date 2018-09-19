@@ -58,7 +58,11 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+
+          <div class="resume-item-company">
+            <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+            <a href="{{job.link}}"><img class="resume-item-logo" src="/images/{{job.logo}}"></img>  </a>    
+          </div>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
           <div class="resume-item-keywords">

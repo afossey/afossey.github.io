@@ -1,7 +1,10 @@
 # Skills
 # Organizational leadership
 - skill: Information Technology
-  description: Fullstack development <br> Service Oriented Architectures <br> Java 8+, Kotlin, Typescript, ReactiveX
+  description: Fullstack development <br> Service Oriented Architectures <br> DevOps
+
+- skill: Project management
+  description: Scrum <br> Kanban 
 
 # Communications strategy
 - skill: Languages
