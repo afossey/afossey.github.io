@@ -48,7 +48,7 @@
   link: https://www.tree.social/#/social
   position: Co Founder
   duration:   Feb, 2015  &mdash; June, 2017
-  summary: <a href="https://www.tree.social/#/social">Tree</a> was a social-bookmarking service for content sharing and curation.<br><ul class="resume-item-list"><li>Connect with people on specific topics</li><li>Discover quality content without any ads</li><li>Share and save your new findings</li></ul>The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> with social and collaborative features. <br> Tree had a premium offering where members could team up and share their bookmarks and ideas. It also featured a chrome and a firefox extension. <br> We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. The application was deployed on AWS Beanstalk, using S3, Cloudfront and RDS. <br> Tree has been discontinued due to growing maintenance and operating costs.
+  summary: <p class="resume-item-copy">Tree was a social-bookmarking service for content sharing and curation.<br>The concept could be sumed up as a <a href="https://getpocket.com/">Pocket</a> with social and collaborative features. <br> Tree had a premium offering where members could team up and share their bookmarks and ideas. It also featured a chrome and a firefox extension.</p> <p class="resume-item-copy">We developed the frontend with AngularJS / HTML / SASS, the backend with Rails API / PostgreSQL and many third party services. To name a few, Google and FB OAuth, Braintree, Pusher, New Relic, Sendinblue, GA .. The application was deployed on AWS Beanstalk, using S3, Cloudfront and RDS. <br> Tree has been discontinued due to growing maintenance and operating costs.</p>
   keywords:
     - Sass
     - AngularJS
@@ -62,7 +62,7 @@
   link: https://worldline.com/
   position: Intern Engineer
   duration:   Aug, 2013  &mdash; Jan, 2014
-  summary: Load testing of a call center solution made of multiple java services<br><ul class="resume-item-list"><li><a href="https://www.neotys.com/neoload/overview">NeoLoad</a> and Groovy scripting</li><li>JVM monitoring</li><li>Servers administration</li></ul>I collaborated with the development team and the business team in order to create tests scenarios that validate product specifications and client cases.
+  summary: Load testing of a call center solution made of multiple java services<br><ul class="resume-item-list"><li><a href="https://www.neotys.com/neoload/overview">NeoLoad</a> and Groovy scripting</li><li>JVM monitoring</li><li>Servers administration</li></ul> <p class="resume-item-copy"> I worked with the development team and the business team in order to create tests scenarios that validate product specifications and client cases.</p>
   keywords:
     - Neoload
     - Unix

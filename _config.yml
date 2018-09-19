@@ -17,10 +17,10 @@ resume_title:                   "Software Engineer"
 resume_contact_email:           "fossey.antoine@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+33786099081"
+resume_contact_telephone:       ""
 resume_contact_address:         "Lyon"
 
-resume_header_contact_info:     "Lyon, France • +33786099081 • fossey.antoine@gmail.com"
+resume_header_contact_info:     "Lyon, France • fossey.antoine@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Hi! I'm a 26 years old programmer living in Lyon. I spend most of my time doing fullstack development and toying around with little projects I never have time to finish. 
