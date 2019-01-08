@@ -4,23 +4,26 @@
   logo: equensWorldline.png
   link: https://equensworldline.com/
   position: Lead Developer
-  duration: Aug, 2017 &mdash; Present
+  duration: Aug, 2017 &mdash; Jan, 2019
   summary: Currently working for the ACS (Access Control Server) Product team.<br> ACS aims at securing internet payments. It implements the 3D-Secure protocol and support multiple ways of authenticating cardholders, for hundreds of banks and millions of users. I lead developments in a young team of eight developers including myself.<p></p>
   keywords:
-    - DevOps
-    - Java EE
     - AngularJS
+    - Java 8
+    - Java EE
+    - RestEasy
+    - Apache CXF
+    - Apache DeltaSpike
+    - Hibernate
+    - Hystrix
+    - JBoss EAP
     - Maven
-    - Netflix OSS
     - MySQL
-    - MongoDB
     - Hazelcast
-    - ELK
+    - DevOps
     - Gitlab CI
-    - Jira
     - Docker-compose
     - PCI 3DS
-    - Cryptography
+    - Cryptography (JWS, JWT, JWK..)
 
 # Software Engineer at Worldline
 - #company: Worldline
@@ -30,8 +33,12 @@
   duration:  Feb, 2016 &mdash; Aug, 2017
   summary: Design and full stack development of digital wallet solutions.<br> We built a whiteapp that enables bootstraping of back-offices development in our business division. I also completely rewrote a frontend for <a href="https://www.paylib.fr/">Paylib</a> using Angular (v4 at the time). <p></p>
   keywords:
+    - Angular
+    - Java 8
     - Java EE
-    - AngularJS
+    - RestEasy
+    - Apache DeltaSpike
+    - JBoss EAP
     - Maven
     - npm
     - Grunt
