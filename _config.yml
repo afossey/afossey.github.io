@@ -23,7 +23,7 @@ resume_contact_address:         "Lyon"
 resume_header_contact_info:     "Lyon, France • fossey.antoine@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I'm a freelance software engineer living in Lyon.</br>I specialize myself on Java backend development but I also did quite a lot of Javascript with Angular and a bit of React.</br>I'm currently interested in functional and reactive programming for the readability and the logic of the code they tend to produce.</p>"
+resume_header_intro: "<p>Hi! I'm a freelance software engineer living in Lyon.</br>I specialize myself in Java webservices development but I also did quite a lot of Javascript with Angular and a bit of React.</br>My current interests are in functional and reactive programming, I like the logic and the readability of the code they tend to produce.</p>"
 
 
 # use "yes" to display the email contact button,
