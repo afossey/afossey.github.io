@@ -11,10 +11,7 @@
     - Java 8
     - Java EE
     - RestEasy
-    - Apache CXF
     - Apache DeltaSpike
-    - Hibernate
-    - Hystrix
     - JBoss EAP
     - Maven
     - MySQL
@@ -23,7 +20,7 @@
     - Gitlab CI
     - Docker-compose
     - PCI 3DS
-    - Cryptography (JWS, JWT, JWK..)
+    - Cryptography
 
 # Software Engineer at Worldline
 - #company: Worldline
@@ -40,8 +37,6 @@
     - Apache DeltaSpike
     - JBoss EAP
     - Maven
-    - npm
-    - Grunt
     - MySQL
     - MongoDB
     - ELK
