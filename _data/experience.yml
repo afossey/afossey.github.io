@@ -1,4 +1,22 @@
 # Jobs
+
+# Full Stack Developer at Carrefour
+- #company: Carrefour
+  logo: carrefour.png
+  link: https://carrefour.com/
+  position: Full Stack Developer
+  duration: Feb, 2019 &mdash; Now
+  summary: My role is to accompany Carrefour in its digital transformation, it goes from consulting existing teams to help them deliver modern software to developing new SaaS for Carrefour internal needs.
+  keywords:
+    - Spring
+    - Angular
+    - React
+    - PWA
+    - PostgreSQL
+    - Jenkins
+    - Docker
+    - Reactive Programming
+
 # Lead Developer at equensWorldline
 - #company: equensWorldline
   logo: equensWorldline.png
@@ -42,7 +60,6 @@
     - ELK
     - Docker
     - Jenkins
-    - Scrum
 
 # Co Founder at Tree Social
 - #company: Tree Social
